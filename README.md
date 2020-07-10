@@ -1,5 +1,5 @@
 # rick-et-morty
-je vos drops le rick est mort unobfusque
+je vos drops le rick es morty unobfusque
 
 -Pour la config.js il faut ouvrir le fichier "config.js"
 
